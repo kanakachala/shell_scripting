@@ -1,0 +1,8 @@
+[
+{"name":"server_3t_MerlinReportService-1.0-20160519.204406-153.war","value":"http://istmaven.corp.apple.com:8081/nexus/content/repositories/MerlinsuiteSnapshots/com/apple/ist/merlin/merlin3t/server_3t_MerlinReportService/1.0-SNAPSHOT/server_3t_MerlinReportService-1.0-20160519.204406-153.war"},
+{"name":"server_3t_MerlinReportService-1.0-20160425.074358-148.war","value":"http://istmaven.corp.apple.com:8081/nexus/content/repositories/MerlinsuiteSnapshots/com/apple/ist/merlin/merlin3t/server_3t_MerlinReportService/1.0-SNAPSHOT/server_3t_MerlinReportService-1.0-20160425.074358-148.war"},
+{"name":"server_3t_MerlinReportService-1.0-20160518.061654-149.war","value":"http://istmaven.corp.apple.com:8081/nexus/content/repositories/MerlinsuiteSnapshots/com/apple/ist/merlin/merlin3t/server_3t_MerlinReportService/1.0-SNAPSHOT/server_3t_MerlinReportService-1.0-20160518.061654-149.war"},
+{"name":"server_3t_MerlinReportService-1.0-20160518.072954-150.war","value":"http://istmaven.corp.apple.com:8081/nexus/content/repositories/MerlinsuiteSnapshots/com/apple/ist/merlin/merlin3t/server_3t_MerlinReportService/1.0-SNAPSHOT/server_3t_MerlinReportService-1.0-20160518.072954-150.war"},
+{"name":"server_3t_MerlinReportService-1.0-20160519.074414-151.war","value":"http://istmaven.corp.apple.com:8081/nexus/content/repositories/MerlinsuiteSnapshots/com/apple/ist/merlin/merlin3t/server_3t_MerlinReportService/1.0-SNAPSHOT/server_3t_MerlinReportService-1.0-20160519.074414-151.war"},
+{"name":"server_3t_MerlinReportService-1.0-20160519.080151-152.war","value":"http://istmaven.corp.apple.com:8081/nexus/content/repositories/MerlinsuiteSnapshots/com/apple/ist/merlin/merlin3t/server_3t_MerlinReportService/1.0-SNAPSHOT/server_3t_MerlinReportService-1.0-20160519.080151-152.war"},
+]
