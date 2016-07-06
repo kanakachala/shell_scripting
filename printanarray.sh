@@ -1,5 +1,5 @@
 #!/bin/bash
-array=("kan" "daroji" "bhavya" "dimpy")
+array=("kanaka" "daroji" "bhavya" "dimpy")
 len=${#array[@]}
 echo "Printing array"
 for element in ${array[@]}
